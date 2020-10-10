@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "tieuDe":"Tiêu đề 1",
+        "trichDan":"XYZ ABC",
+        "noiDung": "Nội dung 1",
+        "anh":"https://3.bp.blogspot.com/-1-EI-hYRRqc/Xd2zFunH65I/AAAAAAAARyU/9lC8yiPTk04zG8t5lIbIc3A-tIwqKxBvwCLcBGAsYHQ/w914-h514-p-k-no-nu/sunrise-illustration-digital-art-uhdpaper.com-4K-4.1963-wp.thumbnail.jpg"
+    },
+    {
+        "id":2,
+        "tieuDe":"Tiêu đề 2",
+        "trichDan":"XYZ ABC 2",
+        "noiDung": "Nội dung 2",
+        "anh":"https://i.pinimg.com/originals/d4/bc/c4/d4bcc46e371e194b20854acd1ba3a86b.jpg"
+    },
+    {
+        "id":3,
+        "tieuDe":"Tiêu đề 3",
+        "trichDan":"XYZ ABC 3 ",
+        "noiDung": "Nội dung 3",
+        "anh":"https://i.pinimg.com/originals/f1/6f/ed/f16fedc86686146624897737cf4338d8.jpg"
+    },
+    {
+        "id":4,
+        "tieuDe":"Tiêu đề 4",
+        "trichDan":"XYZ ABC 4",
+        "noiDung": "Nội dung 4",
+        "anh":"https://free4kwallpapers.com/uploads/originals/2020/06/05/a-bust-with-a-skull-mask-and-neon-lights-oc-wallpaper.jpg"
+    },
+    {
+        "id":5,
+        "tieuDe":"Tiêu đề 5",
+        "trichDan":"XYZ ABC 5",
+        "noiDung": "Nội dung 5",
+        "anh":"https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id":6,
+        "tieuDe":"Tiêu đề 6",
+        "trichDan":"XYZ ABC",
+        "noiDung": "Nội dung 6",
+        "anh":"https://3.bp.blogspot.com/-1-EI-hYRRqc/Xd2zFunH65I/AAAAAAAARyU/9lC8yiPTk04zG8t5lIbIc3A-tIwqKxBvwCLcBGAsYHQ/w914-h514-p-k-no-nu/sunrise-illustration-digital-art-uhdpaper.com-4K-4.1963-wp.thumbnail.jpg"
+    }
+]

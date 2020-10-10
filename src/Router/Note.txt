@@ -1,0 +1,46 @@
+Router là gì?
+    _Router là sự chuyển động trang web không cần load lại khi người dùng gửi yêu cầu.
+    _Điều hướng URL trong react
+Cách sử dụng Router:
+B1: Soạn nội dung HTML, CSS, Boostrap,... cần thiết bằng file bình thường.
+B2: Chuyển các file trên thành các component(JSX). 
+B3: Sắp xếp lại các file, sửa đường dẫn file.
+B4: Cài react router
+    Search gg: React router. 
+    https://reactrouter.com/web/guides/quick-start
+    https://www.npmjs.com/package/react-router-dom
+B5: tạo file và folder: Router
+B6: import các lệnh được hướng dẫn
+    import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link, NavLink,
+    useRouteMatch,
+    useParams
+    } from "react-router-dom";
+
+<Router>
+<Switch>
+          <Route path="/about">
+            <About />
+          </Route>
+          <Route path="/users">
+            <Users />
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+      </div>
+</Router>
+
+B7: import file Router vào App.js
+B8: Sửa thẻ a = link to
+    <Link to="/"> Home </Link>
+B9: Đưa thẻ tag Router vào App.js
+
+-----------activeClassname-----------
+<NavLink to="/faq" activeClassName="selected">
+  FAQs
+</NavLink>
